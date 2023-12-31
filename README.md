@@ -37,6 +37,12 @@ The User Admin System is a RESTful API built with Node.js, Express, and MongoDB.
     npm install
     ```
 
+3. Command to start the server:
+
+    ```bash
+    npm run dev
+    ```
+
 ## Configuration
 
 1. Create a `.env` file in the project root:
