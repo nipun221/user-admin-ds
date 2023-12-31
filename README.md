@@ -224,6 +224,4 @@ Feel free to contribute to this project by creating issues or pull requests. Fol
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-This is a basic template, and you may need to customize it based on your specific project structure, features, and documentation needs.
