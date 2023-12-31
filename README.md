@@ -1,7 +1,3 @@
-Sure, here's a basic template for documenting your project. You may want to expand and customize this based on your specific needs. Also, consider using tools like Swagger for more automated API documentation.
-
----
-
 # Project Documentation: User Admin System
 
 ## Overview
